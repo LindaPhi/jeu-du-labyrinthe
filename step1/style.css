@@ -1,20 +1,38 @@
 body{
-    background-color: #ebebeb;
+    background-color: #d3d3d6;
     text-align: center;
 }
 td, tr{
     width: 25px;
     height: 25px;
 }
+* {
+    color: #4d4b4b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{ 
+    padding: 50px;
+    text-transform: uppercase;
+}
+table{
+    background-color: #4292aa;
+    margin: auto;
+}
 .north{
-    border-top: 2px solid #210e1a;
+    border-top: 5px solid #FFF;
 }
 .east{
-    border-right: 2px solid #110e1a;
+    border-right: 5px solid #FFF;
 }
 .south{
-    border-bottom: 2px solid #110e1a;
+    border-bottom: 5px solid #FFF;
 }
 .west{
-    border-left: 2px solid #110e1a;
+    border-left: 5px solid #FFF;
+}
+.first{
+    background-color: #021859;
+}
+.end{
+    background-color: #f2e205;
 }
