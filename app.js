@@ -15,5 +15,5 @@ server.listen(port, hostname, () => {
 });
 
 app.get('/accueil', function(req, res) {
-  res.sendfile(__dirname + "/jeu-du-labyrinthe/step1/index.html");
+  res.sendfile(__dirname + "/index.html");
 });

@@ -1,7 +1,7 @@
 {
   "name": "jeu-du-labyrinthe",
   "version": "1.0.0",
-  "description": "Projet Labyrinthe\r Etape 1 : Construction du labyrinthe\r La première étape nécessaire à ce projet est la construction du labyrinthe en lui-même. Un\r fichier JSON contenant les informations nécessaires à la création du labyrinthe vous est\r fourni. Il est structuré de la manière qui suit :\r Vous avez à votre disposition 144 labyrinthes dans ce fichier JSON : trois exemples de\r labyrinthe pour différentes tailles, allant de 3 x 3 cases à 25 x 25 cases. Commencez bien\r par les plus petits, ce qui vous permettra de débugger votre code.\r Objectif de cette étape :\r 1. Servez vous de ce fichier JSON pour créer le fameux labyrinthe. Le rendu final doit\r ressembler à la figure 1.\r 2. Passez du temps hors ordinateur pour réfléchir à la structure des données la plus\r adaptée au projet (j’ai déjà dit ça ?). La “qualité” de votre représentation des\r données déterminera la difficulté des étapes suivantes !",
+  "description": "Projet Labyrinthe",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

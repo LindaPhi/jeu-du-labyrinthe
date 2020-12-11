@@ -36,3 +36,7 @@ table{
 .end{
     background-color: #f2e205;
 }
+.visited{
+    color: #021859c5;
+    content: "■";
+}
